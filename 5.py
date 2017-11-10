@@ -1,3 +1,2 @@
-#names = ["manish","harsh","vishu"]
-#print(names[2])
-
+names = ["manish", "harsh", "vishu"]
+print(names[2])
