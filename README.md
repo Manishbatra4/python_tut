@@ -1,4 +1,4 @@
 # python_tut
 
 
-NEW PYthon Tutuorial by class 
+New Python Tutuorial. 
