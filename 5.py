@@ -6,4 +6,3 @@ for name in names:
     print(name)
 
 print("manish" in names)
-
